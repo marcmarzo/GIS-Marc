@@ -1,0 +1,36 @@
+Unless stated otherwise the Canmore dataset contains Ordnance Survey derived data which is delivered through Canmore website under the terms of the OPEN GOVERNMENT End User Licence.
+http://www.ordnancesurvey.co.uk/docs/licences/os-opendata-licence.pdf
+"Canmore-download-Mon, 04 Nov 2019 10:13:57 +0000.csv"
+
+
+CANMORE ID,SITE NUMBER,SITE NAME,SITE TYPE,SITE EASTING,SITE NORTHING,COUNCIL,COUNTY,PARISH,NGR,URL
+"232041","NS67NW 70","Peathill Wood, Newlands, Civil Starfish Ql","Bomb Crater(S) (Second World War), Bunker (20th Century), Decoy Site (20th Century)","260500","676140","EAST DUNBARTONSHIRE","STIRLINGSHIRE","CAMPSIE","NS 6050 7614","http://canmore.org.uk/site/232041",
+"35964","NO66NW 34","Dalladies","Bomb Crater (20th Century)","362850","767520","ABERDEENSHIRE","KINCARDINESHIRE","FETTERCAIRN","NO 6285 6752","http://canmore.org.uk/site/35964",
+"118226","NJ90SE 19","Tullos Hill","Bomb Crater(S) (Second World War)(Possible), Cairn(S) (Period Unassigned), Cist (Period Unassigned)(Possible)","396000","804000","ABERDEEN, CITY OF","ABERDEENSHIRE","ABERDEEN","NJ 960 040","http://canmore.org.uk/site/118226",
+"351543","NT66NE 45","Crystal Rig","Bomb Crater (Second World War)","367470","668602","EAST LOTHIAN","EAST LOTHIAN","INNERWICK (EAST LOTHIAN)","NT 67470 68602","http://canmore.org.uk/site/351543",
+"353310","NS27SE 174","Lurg Moor","Bomb Crater(S) (Second World War)","229960","672971","INVERCLYDE","RENFREWSHIRE","KILMACOLM","NS 29960 72971","http://canmore.org.uk/site/353310",
+"353313","NS27NW 184","Greenock, Ravenscraig","Bomb Crater(S) (Second World War)","224221","675528","INVERCLYDE","RENFREWSHIRE","INVERKIP","NS 24221 75528","http://canmore.org.uk/site/353313",
+"353324","NS27SW 113","Drumillan Hill","Bomb Crater(S) (Second World War)","223038","674942","INVERCLYDE","RENFREWSHIRE","INVERKIP","NS 23038 74942","http://canmore.org.uk/site/353324",
+"353325","NS27NE 444","Greenock, Wellington Park","Bomb Crater(S) (Second World War)","227828","675218","INVERCLYDE","RENFREWSHIRE","GREENOCK","NS 27828 75218","http://canmore.org.uk/site/353325",
+"353326","NS37SW 225","Greenock, Port Glasgow, Kilmacolm","Bomb Crater(S) (Second World War)","230543","673816","INVERCLYDE","RENFREWSHIRE","GREENOCK","NS 30543 73816","http://canmore.org.uk/site/353326",
+"353327","NS36NE 172","Barfillan","Bomb Crater(S) (Second World War)","239206","668494","RENFREWSHIRE","RENFREWSHIRE","HOUSTON","NS 39206 68494","http://canmore.org.uk/site/353327",
+"353328","NS46NW 95","Houston, Barochan Hill, Knowes","Bomb Crater(S) (Second World War)","240798","668080","RENFREWSHIRE","RENFREWSHIRE","HOUSTON","NS 40798 68080","http://canmore.org.uk/site/353328",
+"353332","NS38SW 158","Cardross","Bomb Crater(S) (Second World War)","233844","680553","WEST DUNBARTONSHIRE","DUNBARTONSHIRE","CARDROSS (WEST DUMBARTONSHIRE)","NS 33844 80553","http://canmore.org.uk/site/353332",
+"353333","NS38SE 104","Alexandria","Bomb Crater(S) (Second World War)","236293","680429","WEST DUNBARTONSHIRE","DUNBARTONSHIRE","BONHILL (WEST DUNBARTONSHIRE)","NS 36293 80429","http://canmore.org.uk/site/353333",
+"353339","NS37NE 227","Cardross, Dumbarton And Bonhill","Bomb Crater(S) (Second World War)","238222","677668","WEST DUNBARTONSHIRE","DUNBARTONSHIRE","CARDROSS (WEST DUMBARTONSHIRE)","NS 38222 77668","http://canmore.org.uk/site/353339",
+"353356","NS48SW 35","Dumbarton","Bomb Crater (Second World War)","244752","681050","WEST DUNBARTONSHIRE","DUNBARTONSHIRE","DUMBARTON","NS 44752 81050","http://canmore.org.uk/site/353356",
+"353359","NS37SE 96","Kilmacolm And Erskine","Bomb Crater(S) (Second World War)","235947","671345","INVERCLYDE","RENFREWSHIRE","KILMACOLM","NS 35947 71345","http://canmore.org.uk/site/353359",
+"353360","NS47SW 205","Erskine And Old Kilpatrick","Bomb Crater(S) (Second World War)","243489","672703","WEST DUNBARTONSHIRE","DUNBARTONSHIRE","OLD KILPATRICK (DUMBARTON)","NS 43489 72703","http://canmore.org.uk/site/353360",
+"353361","NS46NE 171","Clydebank","Bomb Crater(S) (Second World War)","248341","669881","RENFREWSHIRE","RENFREWSHIRE","INCHINNAN","NS 48341 69881","http://canmore.org.uk/site/353361",
+"353362","NS48SE 24","Dumbarton","Bomb Crater (Second World War)","246502","680479","WEST DUNBARTONSHIRE","DUNBARTONSHIRE","DUMBARTON","NS 46502 80479","http://canmore.org.uk/site/353362",
+"353363","NS57NW 62","New Kilpatrick And Killearn","Bomb Crater(S) (Second World War)","250902","678275","EAST DUNBARTONSHIRE","DUNBARTONSHIRE","NEW KILPATRICK (EAST DUNBARTONSHIRE)","NS 50902 78275","http://canmore.org.uk/site/353363",
+"353364","NS57NE 122","Strathblane","Bomb Crater (Second World War)","255825","678279","EAST DUNBARTONSHIRE","STIRLINGSHIRE","STRATHBLANE (BEARSDEN AND MILNGAVIE)","NS 55825 78279","http://canmore.org.uk/site/353364",
+"353365","NS47NE 63","Old Kilpatrick And Dumbarton","Bomb Crater(S) (Second World War)","245504","675616","WEST DUNBARTONSHIRE","DUNBARTONSHIRE","OLD KILPATRICK (DUMBARTON)","NS 45504 75616","http://canmore.org.uk/site/353365",
+"353366","NS57SW 338","Old Kilpatrick And New Kilpatrick","Bomb Crater(S) (Second World War)","250892","673796","EAST DUNBARTONSHIRE","DUNBARTONSHIRE","OLD KILPATRICK (BEARSDEN AND MILNGAVIE)","NS 50892 73796","http://canmore.org.uk/site/353366",
+"353368","NS67NE 49","Campsie","Bomb Crater(S) (Second World War)","265322","677692","EAST DUNBARTONSHIRE","STIRLINGSHIRE","CAMPSIE","NS 65322 77692","http://canmore.org.uk/site/353368",
+"353371","NS77NW 185","Banton Loch","Bomb Crater(S) (Second World War)","273988","678055","NORTH LANARKSHIRE","STIRLINGSHIRE","KILSYTH (NORTH LANARKSHIRE)","NS 73988 78055","http://canmore.org.uk/site/353371",
+"353373","NS35NE 167","Lochwinnoch And Beith","Bomb Crater(S) (Second World War)","235898","656052","RENFREWSHIRE","RENFREWSHIRE","LOCHWINNOCH","NS 35898 56052","http://canmore.org.uk/site/353373",
+"353375","NS35SE 111","Beith","Bomb Crater(S) (Second World War)","237732","654842","EAST RENFREWSHIRE","AYRSHIRE","BEITH (RENFREW)","NS 37732 54842","http://canmore.org.uk/site/353375",
+"353377","NS47SE 370","Old Kilpatrick And Inchinnan","Bomb Crater(S) (Second World War)","247870","673238","EAST DUNBARTONSHIRE","DUNBARTONSHIRE","OLD KILPATRICK (BEARSDEN AND MILNGAVIE)","NS 47870 73238","http://canmore.org.uk/site/353377",
+"354717","NS47SE 371","Erskine","Bomb Crater (Second World War)","248243","670000","RENFREWSHIRE","RENFREWSHIRE","ERSKINE","NS 48243 70000","http://canmore.org.uk/site/354717",
+"359712","NS25NW 288","Scotlaw","Bomb Crater (Second World War)(Possible)","224001","659640","NORTH AYRSHIRE","AYRSHIRE","LARGS","NS 24001 59640","http://canmore.org.uk/site/359712",

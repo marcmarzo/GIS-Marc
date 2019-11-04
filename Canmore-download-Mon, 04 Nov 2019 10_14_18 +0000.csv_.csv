@@ -1,0 +1,26 @@
+Unless stated otherwise the Canmore dataset contains Ordnance Survey derived data which is delivered through Canmore website under the terms of the OPEN GOVERNMENT End User Licence.
+http://www.ordnancesurvey.co.uk/docs/licences/os-opendata-licence.pdf
+"Canmore-download-Mon, 04 Nov 2019 10:14:18 +0000.csv"
+
+
+CANMORE ID,SITE NUMBER,SITE NAME,SITE TYPE,SITE EASTING,SITE NORTHING,COUNCIL,COUNTY,PARISH,NGR,URL
+"201663","HU31SE 345","Sumburgh Airfield, Scholland","Air Raid Shelter(S) (Second World War), Military Camp (Second World War), Nissen Hut(S) (Second World War)","438750","1111250","SHETLAND ISLANDS","SHETLAND","DUNROSSNESS","HU 3875 1125","http://canmore.org.uk/site/201663",
+"201658","HU31SE 342","Sumburgh Airfield","Air Raid Shelter(S) (Second World War), Military Camp (Second World War)","439190","1110390","SHETLAND ISLANDS","SHETLAND","DUNROSSNESS","HU 3919 1039","http://canmore.org.uk/site/201658",
+"201662","HU31SE 344","Sumburgh Airfield, Goat","Air Raid Shelter(S) (Second World War), Military Camp (Second World War)","438950","1111130","SHETLAND ISLANDS","SHETLAND","DUNROSSNESS","HU 3895 1113","http://canmore.org.uk/site/201662",
+"352408","NS16NW 1647","Toward Battery","Air Raid Shelter (Second World War), Machine Gun Post (Second World War)","212457","668156","ARGYLL AND BUTE","ARGYLL","DUNOON AND KILMUN","NS 12457 68156","http://canmore.org.uk/site/352408",
+"80728","NK06SW 29","Fraserburgh Airfield, Tershinty Camp, Domestic Site","Air Raid Shelter (Second World War), Military Camp (20th Century)","402641","864292","ABERDEENSHIRE","ABERDEENSHIRE","RATHEN","NK 02641 64292","http://canmore.org.uk/site/80728",
+"85532","NT27NE 140","Edinburgh, Leith, Somerset's Mount","Air Raid Shelter (Second World War), Battery (16th Century), Ditch (Period Unassigned), Forge (Period Unassigned)(Possible), Midden (Period Unassigned), Road (Period Unassigned), Wall (Period Unassigned), Unidentified Pottery(S) (16th Century)","326400","675800","EDINBURGH, CITY OF","MIDLOTHIAN","EDINBURGH (EDINBURGH, CITY OF)","NT 2640 7580","http://canmore.org.uk/site/85532",
+"88885","NK06SW 30","Fraserburgh Airfield, Bridge Of Philorth, Domestic Site","Air Raid Shelter (Second World War), Military Camp (20th Century)","402247","864485","ABERDEENSHIRE","ABERDEENSHIRE","RATHEN","NK 02247 64485","http://canmore.org.uk/site/88885",
+"144186","NK04NE 122","Peterhead Airfield, Hayfield Camp","Air Raid Shelter (Second World War), Military Camp (20th Century)","409800","846850","ABERDEENSHIRE","ABERDEENSHIRE","PETERHEAD","NK 0980 4685","http://canmore.org.uk/site/144186",
+"157270","NT27SE 3958","Edinburgh, Holyrood Park, Muschet's Cairn","Air Raid Shelter(S) (Second World War)(Possible)","327730","674110","EDINBURGH, CITY OF","MIDLOTHIAN","EDINBURGH (EDINBURGH, CITY OF)","NT 2773 7411","http://canmore.org.uk/site/157270",
+"181066","NK04NE 125","Peterhead Airfield, Camp","Air Raid Shelter (Second World War), Military Camp (20th Century)","409190","846670","ABERDEENSHIRE","ABERDEENSHIRE","PETERHEAD","NK 0919 4667","http://canmore.org.uk/site/181066",
+"229601","NS56SE 1607","Glasgow Green","Air Raid Shelter(S) (Second World War)","259850","664380","GLASGOW, CITY OF","LANARKSHIRE","GLASGOW (CITY OF GLASGOW)","NS 5985 6438","http://canmore.org.uk/site/229601",
+"240185","NT17NE 257","Edinburgh, Cargilfield School","Air Raid Shelter(S) (Second World War)","318750","675900","EDINBURGH, CITY OF","MIDLOTHIAN","EDINBURGH (EDINBURGH, CITY OF)","NT 1875 7590","http://canmore.org.uk/site/240185",
+"320282","NS67SE 212","Woodilee Hospital Shelters","Air Raid Shelter(S) (Second World War)","267270","672740","EAST DUNBARTONSHIRE","DUNBARTONSHIRE","KIRKINTILLOCH (STRATHKELVIN)","NS 6727 7274","http://canmore.org.uk/site/320282",
+"347070","NT27SE 6170","Edinburgh,  West Maitland Street","Air Raid Shelter (Second World War)","324210","673340","EDINBURGH, CITY OF","MIDLOTHIAN","EDINBURGH (EDINBURGH, CITY OF)","NT 2421 7334","http://canmore.org.uk/site/347070",
+"351481","NH76NW 161","Invergordon, Invergordon Academy Playing Field","Air Raid Shelter (Second World War)","270753","869149","HIGHLAND","ROSS AND CROMARTY","ROSSKEEN","NH 70753 69149","http://canmore.org.uk/site/351481",
+"352384","NS16NW 1626","Toward Battery","Air Raid Shelter (Second World War)","212267","668106","ARGYLL AND BUTE","ARGYLL","DUNOON AND KILMUN","NS 12267 68106","http://canmore.org.uk/site/352384",
+"352387","NS16NW 1629","Toward Battery","Air Raid Shelter (Second World War)","212293","668172","ARGYLL AND BUTE","ARGYLL","DUNOON AND KILMUN","NS 12293 68172","http://canmore.org.uk/site/352387",
+"352397","NS16NW 1638","Toward Battery","Air Raid Shelter (Second World War)(Possible)","212395","668190","ARGYLL AND BUTE","ARGYLL","DUNOON AND KILMUN","NS 12395 68190","http://canmore.org.uk/site/352397",
+"355351","NS37NE 230","Dumbarton, Church Street, Burgh Hall","Air Raid Shelter (Second World War)(Possible)","239859","675292","WEST DUNBARTONSHIRE","DUNBARTONSHIRE","DUMBARTON","NS 39859 75292","http://canmore.org.uk/site/355351",
+"356025","HU43NE 52","The Lerwick Observatory","Air Raid Shelter (Second World War)","445208","1139692","SHETLAND ISLANDS","SHETLAND","LERWICK","HU 45208 39692","http://canmore.org.uk/site/356025",
